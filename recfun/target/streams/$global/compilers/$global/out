@@ -1,0 +1,33 @@
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.2[0m
+[0m[[0mdebug[0m] [0mOther repositories:[0m
+[0m[[0mdebug[0m] [0mDefault repositories:[0m
+[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),Patterns(ivyPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false))[0m
+[0m[[0mdebug[0m] [0mOther repositories:[0m
+[0m[[0mdebug[0m] [0mDefault repositories:[0m
+[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),Patterns(ivyPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false))[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.10.2. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.10.2  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_d81672bc[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/local/jdk1.7.0_21/jre/lib/resources.jar:/usr/local/jdk1.7.0_21/jre/lib/rt.jar:/usr/local/jdk1.7.0_21/jre/lib/sunrsasign.jar:/usr/local/jdk1.7.0_21/jre/lib/jsse.jar:/usr/local/jdk1.7.0_21/jre/lib/jce.jar:/usr/local/jdk1.7.0_21/jre/lib/charsets.jar:/usr/local/jdk1.7.0_21/jre/lib/jfr.jar:/usr/local/jdk1.7.0_21/jre/classes:/home/tommi/.sbt/boot/scala-2.10.2/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/tommi/.sbt/boot/scala-2.9.2/org.scala-sbt/sbt/0.12.4/xsbti/interface-0.12.4.jar:/home/tommi/.sbt/boot/scala-2.9.2/org.scala-sbt/sbt/0.12.4/compiler-interface-src/compiler-interface-src-0.12.4.jar:/home/tommi/.sbt/boot/scala-2.10.2/lib/scala-compiler.jar:/home/tommi/.sbt/boot/scala-2.10.2/lib/jline.jar:/home/tommi/.sbt/boot/scala-2.10.2/lib/scala-reflect.jar:/home/tommi/.sbt/boot/scala-2.10.2/lib/jansi.jar[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_28642313/API.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_28642313/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_28642313/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_28642313/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_28642313/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_28642313/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_28642313/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_28642313/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_28642313/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 11.027 s[0m
+[0m[[0mdebug[0m] [0mOther repositories:[0m
+[0m[[0mdebug[0m] [0mDefault repositories:[0m
+[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),Patterns(ivyPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false))[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.2[0m
+[0m[[0mdebug[0m] [0mOther repositories:[0m
+[0m[[0mdebug[0m] [0mDefault repositories:[0m
+[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),Patterns(ivyPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false))[0m
